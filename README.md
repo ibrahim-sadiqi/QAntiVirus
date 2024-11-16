@@ -23,7 +23,7 @@ QAntiVirus is designed to provide robust protection against malware, viruses, an
 
 To install QAntiVirus, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Eblali/QAntiVirus.git`
+1. Clone the repository: `git clone https://github.com/ibrahim-sadiqi/QAntiVirus.git`
 2. With auto-py-to-exe can create an installer package to windows.
 
 ## Usage
@@ -42,4 +42,4 @@ We welcome contributions from the community to help improve QAntiVirus. If you w
 
 ## Contact
 
-For any questions or inquiries, please contact [Eblali](https://github.com/Eblali).
+For any questions or inquiries, please contact [Ibrahim Sadiqi](https://github.com/ibrahim-sadiqi).
